@@ -1,2 +1,4 @@
-# Perbandingan-Efisiensi-Algoritma-Iteratif-dan-Rekursif-untuk-Pencarian-Least-Common-Multiple-LCM-
-Pencarian LCM merupakan salah satu operasi dasar dalam matematika dan komputasi. Terdapat berbagai pendekatan untuk menemukan LCM, salah satunya menggunakan algoritma rekursif dan iteratif.
+# Perbandingan Efisiensi Algoritma Iteratif dan Rekursif untuk Pencarian Least Common Multiple (LCM) 
+Pencarian LCM merupakan salah satu operasi dasar dalam matematika dan komputasi. Terdapat berbagai pendekatan untuk menemukan LCM, salah satunya menggunakan algoritma rekursif dan iteratif. Namun, seiring dengan meningkatnya ukuran input, efisiensi, kedua pendekatan ini menjadi topik yang perlu dianalisis. Setiap pendekatan memiliki karakteristik unik, baik dalam hal waktu eksekusi maupun pengguna sumber daya komputasi.
+Masalah yang dihadapi adalah menentukan algoritma mana yang lebih dioptimalkan untuk mencari LCM pada berbagai pasangan bilangan bulat positif. Hal ini penting untuk memastikan bahwa implementasi algoritma yang dipilih dapat memberikan hasil yang cepat dan efisien, terutama dalam konteks aplikasi nyata yang membutuhkan pengolahan data besar.
+
